@@ -132,3 +132,5 @@ dmypy.json
 *.jpg
 *.csv
 data/
+runs/
+*.pt

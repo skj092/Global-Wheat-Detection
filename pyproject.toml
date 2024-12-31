@@ -1,0 +1,13 @@
+[project]
+name = "wheat-head-detection-yolo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "tqdm>=4.67.1",
+    "numpy>=2.2.1",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.0",
+    "ultralytics>=8.3.23",
+]

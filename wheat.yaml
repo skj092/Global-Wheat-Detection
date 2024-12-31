@@ -1,0 +1,4 @@
+train: /home/sonujha/rnd/Wheat-Head-Detection-YOLO/data/preprocessed/images/train
+val: /home/sonujha/rnd/Wheat-Head-Detection-YOLO/data/preprocessed/images/valid
+nc: 1
+names: ["wheat"]
